@@ -1,0 +1,68 @@
+#wideo{
+  width: 100%;
+  height: auto;
+}
+#nastepny{
+  position: relative;
+  top: 20px;
+}
+a{
+  font-size: 4vh;
+  color: var(--textcolor);
+  font-family: Arial;
+}
+body{
+  background-color: var(--bgcolor)
+}
+h1{
+  color: var(--textcolor);
+  font-size: 4vh;
+  font-family: Arial;
+}
+#odcinki{
+  background-color: yellow;
+  color: black;
+  border-radius: 5px;
+  
+}
+#odcinki ul li a{
+  color: black;
+  font-size: 4vh;
+  
+}
+:root{
+  --textcolor: lightgrey;
+  --bgcolor: rgb(40, 40, 40);
+}
+#toggleld{
+  border: none;
+  border-radius: 5px;
+  background-color: yellowgreen;
+  height: 50px;
+  width: 150px
+}
+#odcinki h1{
+  color: black;
+  position: relative;
+  top: 20px;
+  right: 20px;
+}
+header{
+  text-align: center;
+}
+nav{
+  
+}
+nav ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+nav li{
+  padding: 20px;
+}
+nav a{
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
