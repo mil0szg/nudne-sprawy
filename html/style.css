@@ -50,19 +50,3 @@ h1{
 header{
   text-align: center;
 }
-nav{
-  
-}
-nav ul{
-  list-style-type: none;
-  display: flex;
-  justify-content: space-between;
-}
-nav li{
-  padding: 20px;
-}
-nav a{
-  text-decoration: none;
-  display: block;
-  text-align: center;
-}
